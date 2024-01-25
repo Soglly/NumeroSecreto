@@ -1,1 +1,1 @@
-Esta es una pagina para barberia Alura
+Juego DE barberia alura
